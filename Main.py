@@ -11,22 +11,24 @@ class DoublyCircularLinkedList:
         self.count = 0
 
     def add_at_tail(self, data) -> bool:
-        # Write code here
+        front = NULL;
+        end = NULL;
+        
+        
+        
 
     def add_at_head(self, data) -> bool:
-        # Write code here
-
+    
     def add_at_index(self, index, data) -> bool:
-        # Write code here
+     
 
     def get(self, index) -> int:
-        # Write code here
+      
 
     def delete_at_index(self, index) -> bool:
-        # Write code here
-
+      
     def get_previous_next(self, index) -> list:
-        # Write code here
+      
 
 
 # Do not change the following code
